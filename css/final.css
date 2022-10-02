@@ -1,0 +1,475 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Work+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Work+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+
+
+
+body{
+	background-color: #bcaaa4;
+height:1366px;
+width: 768px;
+
+}
+.main{
+	height:1250px;
+
+}
+.fan{
+text-align: center;
+color: black;
+	font-size: 38px;
+font-family: 'Frank Ruhl Libre', serif;
+margin-left: 67%;
+}
+.jiro{
+
+	margin-left: 30%;
+	margin-top: 3%;
+}
+.Ji{
+	width: 60%;
+margin-top: -35%;
+	margin-left: 82%;
+		font-size: 28px;
+font-family: 'Fira Sans', sans-serif;
+}
+.Jir{
+
+	width: 60%;
+margin-top: 3%;
+	margin-left: 84%;
+		font-size: 28px;
+font-family: 'Fira Sans', sans-serif;
+}
+.jiroy{
+	margin-top: 30%;
+text-align: start;
+width: 140%;
+font-family: 'Fira Sans', sans-serif;
+margin-left: 30%;
+}
+.fotis{
+		width: 100%;
+	height: 30%;
+		display: flex;	
+		flex-direction: row;
+	flex-wrap: nowrap;
+	align-content: center;
+	justify-content: space-between;
+	margin-top: 7%;
+	margin-left: 44%;
+
+}
+
+.historia{
+
+	width: 100%;
+	height: 10%;
+		display: flex;	
+		flex-direction: row;
+	flex-wrap: nowrap;
+	align-content: center;
+	justify-content: space-between;
+	margin-top: 39%;
+	margin-left: 49%;
+	font-family: 'Fira Sans', sans-serif;
+
+
+}
+.titu{
+transform: rotate(-90deg); 
+	margin-top: -60%;
+	margin-left:-10%;
+	font-size: 38px;
+font-family: 'Fira Sans', sans-serif;
+
+
+
+}
+.b{
+text-decoration: none;
+		color: black;
+		margin-top: 5%;
+		margin-left: -10%;
+}
+.mini{
+	text-decoration: none;
+color: black;
+		font-size: 60px;
+}
+.a{
+	text-decoration: none;
+		color: black;
+}
+.artistas{
+	width: 15%;
+	height: 10%;
+	margin-top: -30%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 60%;
+	margin-left: 50%;
+}
+ .titu1{
+transform: rotate(-90deg); 
+	margin-top: -28%;
+	margin-left:-10%;
+	font-size: 38px;
+font-family: 'Fira Sans', sans-serif;
+
+
+}
+
+ .titu2{
+transform: rotate(-90deg); 
+
+	margin-left:-10%;
+	margin-top: 5%;
+	font-size: 38px;
+font-family: 'Fira Sans', sans-serif;
+
+
+}
+
+.qns{
+width: 45%;
+	height: 30%;
+	margin-top: -6%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 30%;
+	margin-left: 51%;
+
+}
+
+.historiami{
+	width: 100%;
+	height: 10%;
+	margin-top: 1%;
+	margin-left: 75%;
+	font-size: 25px;
+	font-family: 'Frank Ruhl Libre', serif;
+
+
+}
+.obras{
+	width: 100%;
+	height: 10%;
+	margin-top: 1%;
+	margin-left: 88%;
+	font-size: 25px;
+	font-family: 'Frank Ruhl Libre', serif;
+color: black;
+
+}
+.rayas{
+margin-left: 10%;
+	align-content: center;
+	margin-top: 4%;
+}
+
+.search{
+width: 30%;
+
+	margin-top: 5%;
+	align-content: left;
+margin-left: 150%;
+
+}
+.nav{
+width: 60%;
+display: flex;
+    flex-direction: row;
+  margin-left: 6%;
+	margin-top: -3%;
+  justify-content: space-between;
+
+}
+.navega{
+
+color: black;
+	text-decoration: none;
+}
+.textoh{
+		margin-top: 8%;
+text-align: start;
+width: 150%;
+font-family: 'Fira Sans', sans-serif;
+margin-left: 25%;
+
+
+}
+.contenedor{
+display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.iconos{
+
+justify-content: space-between;
+    display: flex;
+    width: 40%;
+padding: 3%;
+	margin-left: 140%;
+	margin-top: 10%;
+
+}
+.iconoss{
+		text-decoration: none;
+		color: black;
+}
+.titulo{
+	font-size: 60px;
+	text-decoration: none;
+color: black;
+
+}
+.columna{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+    margin-left: 62%;
+    margin-top: 5%; 
+    width: 60%;
+    font-family: 'Fira Sans', sans-serif;
+
+}
+.columna1{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+    margin-left: 49%;
+    margin-top: 2%; 
+    width: 60%;
+    font-family: 'Fira Sans', sans-serif;
+
+}
+.columna2{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+    margin-left: 80%;
+    margin-top: 2%; 
+    width: 60%;
+    font-family: 'Fira Sans', sans-serif;
+
+}
+.largo{
+	height:1600px;
+}
+.qui{
+	width: 70%;
+	margin-left: 80%;font-size: 25px;
+	font-family: 'Frank Ruhl Libre', serif;
+	
+}
+.textoq{
+	width: 80%;
+	align-content: center;
+ font-family: 'Fira Sans', sans-serif;
+margin-left: 60%;
+
+}
+.albumes{
+font-size: 18px;
+  font-family: 'DM Sans', sans-serif;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -5%;
+    color: white;
+    width: 80%;
+}
+.fotos{
+	display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    align-items: center;
+    width: 20%;
+    margin-left: 19%;
+    justify-content: space-between;
+
+}
+.red{
+	  margin-top: 1%;
+	    margin-left: 78%;
+}
+.ellos{
+		  margin-top: 5%;
+	    margin-left: 70%;
+}
+.elloss{
+	width: 90%;
+		  margin-top: -34%;
+	    margin-left: 100%;
+}
+.img{
+	    width: 25%;
+    height: 72%;
+    border-radius: 5%;
+}
+.tourss{
+	    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 13%;
+    margin-top: 4%;
+    width: 80%;
+  font-family: 'DM Sans', sans-serif;
+    color: white;}
+
+
+.tours{
+      display: flex;
+    flex-direction: row;
+    margin-top: 30%;
+    width: %;
+    /* height: 70%; */
+    margin-top: -4%;
+    margin-left: -7%;
+    align-self: center;
+    font-size: 16px;
+    justify-content: space-between;
+}
+
+.dias{
+	        display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 25%;
+    margin-left: -50%;
+    font-size: 20px;
+
+}
+
+.ciudades{
+   
+    display: flex;
+    flex-direction: row;
+    /* align-items: flex-end; */
+    width: 120%;
+    margin-top: -4%;
+    margin-left: 150%;
+     align-self: center;
+     font-size: 20px;
+
+}
+
+
+.contactanos{
+	margin-left: 20%;
+	color: white;
+	margin-top: -20%;
+font-size: 25px;
+font-family: 'DM Sans', sans-serif;
+
+}.cuadrado{
+	width: 100%;
+ background-color: grey;
+
+}
+.form{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-left: 68%;
+width: 40%;
+    margin-top: 1%;
+
+
+
+}
+.formulario{
+	justify-content: space-between;
+	margin-top: 4%;
+
+}
+.formulario1{
+
+
+
+}
+.edit{
+width: 60%;
+    margin-left: 130%;
+    margin-top: -140%;
+}
+
+.caja{
+	margin-top: 3%;
+	margin-left: 4%;
+}
+.mapa{
+	margin-top: 3%;
+	margin-left: 52%;
+}
+.loc{
+	width: 70%;
+	margin-top: 5%;
+	margin-left: 82%;font-size: 25px;
+	font-family: 'Frank Ruhl Libre', serif;
+	
+
+}
+.triple{
+margin-top: 5%;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-between;
+    margin-left: 145px;
+flex-wrap: nowrap;
+width: 155%;}
+.vida{
+	width: 70%;
+	margin-left: 69%;font-size: 25px;
+	font-family: 'Frank Ruhl Libre', serif;
+	
+}
+.arqui{
+	margin-left: -2%;
+	font-size: 15px;
+
+ font-family: 'Fira Sans', sans-serif;
+
+}
+.tit{
+font-size: 20px;
+margin-left: 28%;
+}
+.lite{
+	margin-left: 7%;
+
+	font-size: 15px;
+ font-family: 'Fira Sans', sans-serif;
+
+}
+.boton{
+	margin-top: 3%;
+	height: 106%;
+	width: 35%;
+	margin-left: 35%;
+	background-color: black;
+	color: white;
+	   border-radius:5%;
+	transition-duration: 1s;
+	font-size: 23px;
+ font-family: 'Fira Sans', sans-serif;
+
+}
+.boton:hover{
+        color: #1289A7;
+        transform: translate(0,2px);
